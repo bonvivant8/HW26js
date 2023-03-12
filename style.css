@@ -1,0 +1,64 @@
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.myLabel{
+    font-size: 40px;
+    font-weight: 700;
+    color: darkgray;
+    margin:10px;
+
+}
+.myInput{
+    padding:10px;
+    width: 150px;
+    margin: 10px;
+    border: 2px solid black;
+    color:black;
+
+}
+small{
+    font-size: 30px;
+    font-weight: 400;
+    color: darkgray;
+    margin:10px;
+
+}
+.error{
+    border:1px solid red;
+}
+.error-text{
+    color:red;
+}
+.data_title{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    color: black;
+}
+.data_paragraph{
+    font-size: 25px;
+    font-weight: 400;
+    color: darkgray;
+}
+.comments-btn{
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+}
+.comment_title{
+    font-size: 20px;
+    font-weight: 300;
+    font-style: italic;
+}
+.comment_paragraph{
+    font-size: 15px;
+    font-weight: 300;
+    font-style: italic;
+}
+.post{
+    margin:30px;
+}
